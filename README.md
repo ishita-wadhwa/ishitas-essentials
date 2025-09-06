@@ -35,8 +35,8 @@ Contact
 
 📧 Email: ishitawadhwa6@gmail.com
 
-🐱 GitHub: [yourgithub](https://github.com/ishita-wadhwa)
+🐱 GitHub: [mygithub](https://github.com/ishita-wadhwa)
 
-💼 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/ishita-wadhwa-63a208315/)
+💼 LinkedIn: [mylinkedin](https://www.linkedin.com/in/ishita-wadhwa-63a208315/)
 
 Made with ❤️ by Ishita
